@@ -15,5 +15,6 @@ print s.name
 s.age = 25
 print s.age
 
+
 s.score = 98
 print s.score
